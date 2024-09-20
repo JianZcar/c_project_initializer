@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
     name = 'c_project_initializer',
-    version = '0.0.1',
+    version = '0.0.3',
     author = 'Jian Zcar Esteban',
     author_email = 'pub.esteban.jianzcar@outlook.com',
     license = 'MIT License',
